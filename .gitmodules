@@ -1,6 +1,6 @@
 [submodule "odrive_tools"]
 	path = odrive_tools
-	url = https://github.com/JesseDarr/dARM_odrive_tools.git
+	url = git@github.com:Blacknois/dARM_odrive_tools.git
 	branch = main
 [submodule "ros2_pkg"]
 	path = ros2_pkg
